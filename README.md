@@ -25,15 +25,6 @@ See all of them with screenshots on my [portfolio site](https://lauvedward.githu
 
 ---
 
-### 📊 GitHub stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LauvEdward&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="LauvEdward's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauvEdward&layout=compact&theme=dark&hide_border=true" alt="Top languages" />
-</p>
-
----
-
 ### 📫 Reach me
 
 <p>
