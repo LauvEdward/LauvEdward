@@ -10,6 +10,20 @@
 
 ---
 
+### 🏆 Highlights
+
+<p align="left">
+  <img alt="Apps Shipped" src="https://img.shields.io/badge/Apps%20Shipped-6-FF7B00?style=for-the-badge">
+  <img alt="Platforms" src="https://img.shields.io/badge/Platforms-iOS%20%26%20Android-000000?style=for-the-badge">
+  <img alt="Role" src="https://img.shields.io/badge/Role-Independent%20iOS%20Developer-4F46E5?style=for-the-badge">
+</p>
+<p align="left">
+  <a href="https://github.com/LauvEdward?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/LauvEdward?style=social"></a>
+  <a href="https://github.com/LauvEdward?tab=repositories"><img alt="GitHub Stars" src="https://img.shields.io/github/stars/LauvEdward?style=social"></a>
+</p>
+
+---
+
 ### 📱 Apps I've shipped
 
 | | App | What it does | Get it |
