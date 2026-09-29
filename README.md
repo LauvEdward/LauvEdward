@@ -42,5 +42,5 @@ See all of them with screenshots on my [portfolio site](https://lauvedward.githu
 ### 📫 Reach me
 
 <p>
-  <a href="mailto:edwardlauv@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-contact.lauvedward%40gmail.com-333333?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="mailto:edwardlauv@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-edwardlauv%40gmail.com-333333?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
